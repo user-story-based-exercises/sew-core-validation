@@ -6,4 +6,4 @@ SEW | CORE | Validation
 ### Acceptance Criteria
 - All fields in the editor are using validation.
 - Feedback about validation issues are displayed to the user.
-- Validation is performed on the server and on the client.
+- Validation is performed on the server and on the client (using [vuelidate](https://vuelidate-next.netlify.app/)).
