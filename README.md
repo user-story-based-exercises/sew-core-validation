@@ -16,3 +16,4 @@ SEW | CORE | Validation
   <artifactId>spring-boot-starter-validation</artifactId> 
 </dependency>
 ```
+- Use the GlobalExceptionHandler to send a response using status code 4xx and a meaningful error message to the client. This Java file needs to be copied into the repository directory.
